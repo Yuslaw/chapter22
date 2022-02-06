@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.exe
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.deps.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.runtimeconfig.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\ref\question7.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\bin\Debug\net5.0\question7.pdb
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.AssemblyInfo.cs
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\ref\question7.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.pdb
+C:\Users\USER\Desktop\SolelyAssignments\Chapter22\question7\obj\Debug\net5.0\question7.genruntimeconfig.cache
